@@ -119,7 +119,7 @@ import os
 
 # Either export environment variable OPENAI_API_KEY or modify the line below
 # directly, e.g. by changing it to `OPENAI_API_KEY = "MY_OPENAI_API_KEY"`
-OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "ADD_YOUR_OPENAI_API_KEY_HERE_AS_A_STRING_VARIABLE") 
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "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") 
 
 
 INTERVIEW_PARAMETERS = {
